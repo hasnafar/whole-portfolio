@@ -1,6 +1,6 @@
 # whole-portfolio
 
-This challenge was about creating a website from scratch, so I created the HTMl and CSS. The website is a professional portfolio that highlights some of my current work. It will also grow to showcase my future work. 
+This challenge was about creating a website from scratch, so I created HTML and CSS files. The website is a professional portfolio that highlights some of my current work. It will also grow to showcase my future work. 
 
 The top left corner consists of navigation links to three separate sections of the website: About Me, My Work, and Contact Me. 
 
