@@ -12,8 +12,8 @@ The page was adapted for multiple screen sizes.
 
 
 ## Submission
-GitHub Repo URL: 
-Deployed URL: 
+GitHub Repo URL: https://github.com/hasnafar/whole-portfolio
+Deployed URL: https://hasnafar.github.io/whole-portfolio/
 
 
-![Website Screenshot](image.png) 
+![Website Screenshot](ScreenshotPortfolio.png) 
