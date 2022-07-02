@@ -188,3 +188,54 @@ li {
     font-size: x-small;
 }
 
+/* Contact Me Grid Properties */
+
+.Contact-Me {
+
+    display: grid;
+    grid-template-columns: 200px auto auto auto;
+    gap:10px;
+    min-width:80vw;
+    margin-inline: auto;
+    
+}
+
+.cItem1,.cItem2,.cItem3,#contact-link {
+    
+    margin-bottom: 30px;
+    font-size: 20px;
+    font-family: var(--Trebuchet);
+    color: var(--darkslategrey);
+    text-decoration: underline;
+    text-underline-offset: 20px;
+    padding-left: 15px;
+}
+
+#contact-link {
+    padding-left: 0px;
+}
+
+/* Media Query for Responsive Design */
+
+@media screen and (max-width: 768px){
+    .header {
+        height: 200px;
+    }
+
+    .Work-SubGrid {
+        grid-template-areas:
+        'header'
+         'main' 
+         'right'
+         'main2'
+         'right2';
+    }
+    .work-text {
+        width: min-content;
+    }
+    .Overall-Grid {
+        grid-template-columns: 150px 1fr;
+    }
+}
+
+
