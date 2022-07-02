@@ -238,4 +238,26 @@ li {
     }
 }
 
+@media screen and (max-width: 992px){
+    .Contact-Me {
+        grid-template-columns: auto;
+    }
+    .Contact-Me .Overall-Title {
+        text-align: left;
+        padding-left:15px;
+    }
+
+}
+
+@media screen and (max-width: 828px){
+    .header{
+        height: 200px;
+    }
+}
+@media screen and (max-width: 446px){
+    .header {
+        height: 300px;
+    }
+
+}
 
